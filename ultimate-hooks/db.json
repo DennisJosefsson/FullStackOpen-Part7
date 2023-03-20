@@ -1,0 +1,45 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom hooks are awesome"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "Testing",
+      "id": 3
+    },
+    {
+      "content": "Testing again",
+      "id": 4
+    },
+    {
+      "content": "Testing a third time",
+      "id": 5
+    },
+    {
+      "content": "Testing a fourth time",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Matti Luukkainen",
+      "number": "040-12344565"
+    },
+    {
+      "id": 2,
+      "name": "Tarja Halonen",
+      "number": "040-2223334"
+    },
+    {
+      "name": "Dennis",
+      "number": "0383-50738",
+      "id": 3
+    }
+  ]
+}
